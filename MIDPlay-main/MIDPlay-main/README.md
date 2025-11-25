@@ -75,7 +75,7 @@ If you want to add a new language, you can do so by following these steps:
   - As a Pull Request (as described in the previous section)
 
 ## Author and Contributors
+adarsh shukla 
+irfan ahmad ansari  
+lavyansh chauhan 
 
-**Author:** Duy Pham
-
-**Contributors:** symbuzzer, GoldenDragon
