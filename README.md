@@ -73,5 +73,9 @@ If you want to add a new language, you can do so by following these steps:
 - Submit it either:
   - As an issue with the `[Enhancement]` tag and a detailed description, or
   - As a Pull Request (as described in the previous section)
+ 
+  - Author and Contributors
+Adarsh shukla , Irfan ahmad ansari
+Lavyansh chauhan
 
 
